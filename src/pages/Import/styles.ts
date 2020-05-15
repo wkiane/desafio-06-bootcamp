@@ -6,6 +6,10 @@ export const Container = styled.div`
   max-width: 736px;
   margin: 0 auto;
   padding: 40px 20px;
+
+  span {
+    color: red;
+  }
 `;
 
 export const Title = styled.h1`
